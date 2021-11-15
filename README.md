@@ -36,7 +36,7 @@
 
 ### スライド
 
-https://docs.google.com/presentation/d/1C8lDfNH_d5OUdPxupa2jM5cvzQJFX4Mgz7m2VZI9vjM/edit#slide=id.p
+https://docs.google.com/presentation/d/1LCP_fvYnmGIRPCejaB9oW8LmwWQaoRpzTTr1AnP94ag/edit#slide=id.g101d64915cf_0_20
 
 ### プロジェクト管理
 
