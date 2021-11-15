@@ -28,7 +28,9 @@
 
 ### まとめ
 
-### 参考文献
+### 参考文献リスト
+
+https://docs.google.com/spreadsheets/d/1QXFF2BYQ8-Bcgktrca2RO1P_d50pwnTIN-LIyE1u6pI/edit#gid=0
 
 --- 
 
