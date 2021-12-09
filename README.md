@@ -60,3 +60,14 @@ https://docs.google.com/presentation/d/1LCP_fvYnmGIRPCejaB9oW8LmwWQaoRpzTTr1AnP9
 ### プロジェクト管理
 
 https://github.com/furuhashilab/sotsuron2021/projects/4
+
+---
+
+## 2021年12月10日アドベントカレンダー
+
+### スライド
+
+https://docs.google.com/presentation/d/171k6hWYpf6WNtYNZij817HDIpVQbDi5qYmYvH79G0yM/edit#slide=id.gfc492aab65_0_0
+
+### メディウム
+
