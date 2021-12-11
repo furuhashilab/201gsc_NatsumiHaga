@@ -71,3 +71,4 @@ https://docs.google.com/presentation/d/171k6hWYpf6WNtYNZij817HDIpVQbDi5qYmYvH79G
 
 ### メディウム
 
+https://medium.com/furuhashilab/2021-12-10-advent-calendar-f530b06a3b8b
