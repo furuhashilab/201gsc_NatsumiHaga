@@ -74,32 +74,34 @@
 
 ## 参考文献リスト
 
-https://docs.google.com/spreadsheets/d/1QXFF2BYQ8-Bcgktrca2RO1P_d50pwnTIN-LIyE1u6pI/edit#gid=0
+　　https://docs.google.com/spreadsheets/d/1QXFF2BYQ8-Bcgktrca2RO1P_d50pwnTIN-LIyE1u6pI/edit#gid=0
+
+
 
 --- 
 
 ### 2021年11月16日中間発表
 
- スライド
+スライド
 
-https://docs.google.com/presentation/d/1LCP_fvYnmGIRPCejaB9oW8LmwWQaoRpzTTr1AnP94ag/edit#slide=id.g101d64915cf_0_20
+　　https://docs.google.com/presentation/d/1LCP_fvYnmGIRPCejaB9oW8LmwWQaoRpzTTr1AnP94ag/edit#slide=id.g101d64915cf_0_20
 
 
 ### 2021年12月10日アドベントカレンダー
 
- スライド
+スライド
 
-https://docs.google.com/presentation/d/171k6hWYpf6WNtYNZij817HDIpVQbDi5qYmYvH79G0yM/edit#slide=id.gfc492aab65_0_0
+　　https://docs.google.com/presentation/d/171k6hWYpf6WNtYNZij817HDIpVQbDi5qYmYvH79G0yM/edit#slide=id.gfc492aab65_0_0
 
- メディウム
+メディウム
 
-https://medium.com/furuhashilab/2021-12-10-advent-calendar-f530b06a3b8b
+　　https://medium.com/furuhashilab/2021-12-10-advent-calendar-f530b06a3b8b
 
 ### 2022年2月5日ゼミ論最終発表
 
 スライド
 
-https://docs.google.com/presentation/d/1cvHYzjqkHuA-Mfo4UInvGzMzHyHZlvMZirXpKqg9FaU/edit?usp=sharing
+　　https://docs.google.com/presentation/d/1cvHYzjqkHuA-Mfo4UInvGzMzHyHZlvMZirXpKqg9FaU/edit?usp=sharing
 
 メディウム
 
@@ -107,5 +109,5 @@ https://docs.google.com/presentation/d/1cvHYzjqkHuA-Mfo4UInvGzMzHyHZlvMZirXpKqg9
 
 ### プロジェクト管理
 
-https://github.com/furuhashilab/sotsuron2021/projects/4
+　　https://github.com/furuhashilab/sotsuron2021/projects/4
 
