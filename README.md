@@ -160,6 +160,8 @@
 
 メディウム
 
+　　https://medium.com/furuhashilab/2021年-ゼミ論最終発表-9df7a16ce6a5
+
 ---
 
 ### プロジェクト管理
